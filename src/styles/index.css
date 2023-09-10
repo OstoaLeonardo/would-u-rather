@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;500&display=swap');
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+h4, h3, span, button, a {
+  font-family: 'Rubik', sans-serif;
+  font-weight: bold;
+}
+
+.percentage {
+  color: rgb(255, 255, 255, .5);
+}
